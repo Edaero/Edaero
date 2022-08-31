@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Welcome%20My%20World!&fontSize=60)
 
+## <p align="center"> 🌏 Social </p>
+
+<div align="center">
+<a href="https://github.com/Edaero" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&?style=plastic&logo=GitHub&logoColor=white"/></a>
+<a href="https://dengcode.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&?style=plastic&logo=Tistory&logoColor=white"/></a>
+<img alt="Gmail" src ="https://img.shields.io/badge/edaero22@gmail.com-EA4335.svg?&?style=plastic&logo=Gmail&logoColor=white"/>
+</div>
+
 ## <p align="center"> 💪 skills </p>
 
 <div align="center">
@@ -25,15 +33,6 @@
 <div align="center">
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&?style=plastic&logo=Git&logoColor=black"/>
 <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&?style=plastic&logo=Slack&logoColor=black"/>
-</div>
-
-
-## <p align="center"> 🌏 Social </p>
-
-<div align="center">
-<a href="https://github.com/Edaero" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&?style=plastic&logo=GitHub&logoColor=white"/></a>
-<a href="https://dengcode.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&?style=plastic&logo=Tistory&logoColor=white"/></a>
-<img alt="Gmail" src ="https://img.shields.io/badge/edaero22@gmail.com-EA4335.svg?&?style=plastic&logo=Gmail&logoColor=white"/>
 </div>
 
 <!--
