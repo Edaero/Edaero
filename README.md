@@ -42,6 +42,7 @@
 <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
 <img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
+<img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
 </div>
 
 ## <p align="center"> ⚔ Tools </p>
