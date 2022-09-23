@@ -24,6 +24,7 @@
 <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=black"/>
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=black"/>
 <img alt="Tailwind CSS" src ="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?&?style=plastic&logo=Tailwind CSS&logoColor=black"/>
+<img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
 </div>
 
 ### <p align="center"> ⚙ Back-End </p>
@@ -42,7 +43,6 @@
 <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
 <img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
-<img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
 </div>
 
 ## <p align="center"> ⚔ Tools </p>
