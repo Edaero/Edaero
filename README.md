@@ -15,15 +15,15 @@
 <div align="center">
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/>
-<img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=black"/>
+<img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/>
 </div>
 
 ### <p align="center"> 📚 Library & Framework </p>
 
 <div align="center">
-<img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=black"/>
-<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=black"/>
-<img alt="Tailwind CSS" src ="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?&?style=plastic&logo=Tailwind CSS&logoColor=black"/>
+<img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/>
+<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>
+<img alt="Tailwind CSS" src ="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?&?style=plastic&logo=Tailwind CSS&logoColor=white"/>
 <img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
 </div>
 
@@ -39,7 +39,7 @@
 ## <p align="center"> ✏ Learning now </p>
 
 <div align="center">
-<img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=black"/>
+<img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=white"/>
 <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
 <img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
